@@ -1,1 +1,1 @@
-# semi-supervised-deep-learning-for-melanoma-detection-
+# Semi-Supervised Deep Learning For Melanoma Detection
